@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrarySmyslov13", "ClassLibrarySmyslov13\ClassLibrarySmyslov13.csproj", "{5C6E82B4-C885-4FC6-AF00-8F60AF3A936F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectSmyslov13", "UnitTestProjectSmyslov13\UnitTestProjectSmyslov13.csproj", "{F9EC138D-C6F0-4C23-AD8B-BB93F91A34AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C6E82B4-C885-4FC6-AF00-8F60AF3A936F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C6E82B4-C885-4FC6-AF00-8F60AF3A936F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C6E82B4-C885-4FC6-AF00-8F60AF3A936F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C6E82B4-C885-4FC6-AF00-8F60AF3A936F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9EC138D-C6F0-4C23-AD8B-BB93F91A34AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EC138D-C6F0-4C23-AD8B-BB93F91A34AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EC138D-C6F0-4C23-AD8B-BB93F91A34AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EC138D-C6F0-4C23-AD8B-BB93F91A34AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F835C99-C640-45C5-98E0-3A9B1AE7760B}
+	EndGlobalSection
+EndGlobal
